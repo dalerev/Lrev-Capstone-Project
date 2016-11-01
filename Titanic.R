@@ -1,7 +1,4 @@
-library(ggplot2)
-
-setwd("C:/Users/Louise/Documents/R/tutorials/assignment resources")
-titanic <- read_csv("titanic_original.csv", col_names = TRUE)
+# Datacamp ggplot2 tutorial(Part 1) answers
 
 # Check out the structure of titanic
 str(titanic)
